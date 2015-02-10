@@ -15,7 +15,7 @@ import sys
 
 
 def usage():
-    print('python ossummit.py links.txt')
+    print('python ossprofile_scraper.py links.txt')
 
 
 def scrape(num, url):
