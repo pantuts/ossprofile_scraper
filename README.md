@@ -9,7 +9,7 @@ of your actions.
 
 How to use:
 
-`python2.7 oss_scraper.py links.txt`
+`python2.7 ossprofile_scraper.py links.txt`
 
 Sample output:
 
