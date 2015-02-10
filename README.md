@@ -13,7 +13,7 @@ How to use:
 
 Sample output:
 
-`
+```
 [+] 1 Scraping: http://openstacksummitnovember2014paris.sched.org/jaywang144
 [+] Done - 1
 [+] 2 Scraping: http://openstacksummitnovember2014paris.sched.org/jdanjou
@@ -32,11 +32,11 @@ Sample output:
 [+] Done - 8
 [+] 9 Scraping: http://openstacksummitnovember2014paris.sched.org/nikolay.fedotov.581
 [+] Done - 9
-`
+```
 
 Threaded output:
 
-`
+```
 [+] 1 Scraping: http://openstacksummitnovember2014paris.sched.org/jaywang144
 [+] 2 Scraping: http://openstacksummitnovember2014paris.sched.org/jdanjou
 [+] 3 Scraping: http://openstacksummitnovember2014paris.sched.org/vjtripathi
@@ -55,6 +55,6 @@ Threaded output:
 [+] Done - 6
 [+] Done - 9
 [+] Done - 1
-`
+```
 
 Included are sample outputs in csv format and profile links.
