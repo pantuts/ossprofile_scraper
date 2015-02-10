@@ -18,7 +18,7 @@ import sys
 
 
 def usage():
-    print('python ossprofile_scraper.py links.txt')
+    print('python ossprofile_scraper_threaded.py links.txt')
 
 
 def scrape(num, url):
